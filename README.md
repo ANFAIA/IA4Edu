@@ -1,5 +1,10 @@
 # IA4Edu
 
+Este proyecto está aún en desarrollo, acceda a las actualizaciones en el siguiente repositorio: 
+
+https://github.com/KrolinaTF/IA4Edu.git
+
+
 🎓 **Asistente de IA para crear actividades de aprendizaje por proyectos inclusivas**
 
 Aplicación para el desarrollo de proyectos educativos teniendo en cuenta la diversidad del aula usando agentes de IA que diseñan actividades adaptadas para diferentes neurotipos (TEA, TDAH, Altas Capacidades, y desarrollo típico).
@@ -14,7 +19,7 @@ Aplicación para el desarrollo de proyectos educativos teniendo en cuenta la div
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/IA4Edu.git
+   git clone https://github.com/KrolinaTF/IA4Edu.git
    cd IA4Edu
    ```
 
